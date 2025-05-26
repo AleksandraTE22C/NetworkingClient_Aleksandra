@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a105de-b9f3-4082-b57b-36ea7685e329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NetworkingClient_Aleksandra.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="c2a105de-b9f3-4082-b57b-36ea7685e329" name="Changes" comment="Började klientdelen av nätverkslabben">
+      <change beforePath="$PROJECT_DIR$/src/NetworkingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkingClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AleksandraTE22C"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AleksandraTE22C/NetworkingClient_Aleksandra.git",
+    "accountId": "5716f162-ec30-4813-a480-9d3276ec05af"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -59,11 +65,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748266858712</updated>
-      <workItem from="1748266859743" duration="1196000" />
+      <workItem from="1748266859743" duration="2247000" />
     </task>
+    <task id="LOCAL−00001" summary="Började klientdelen av nätverkslabben">
+      <option name="closed" value="true" />
+      <created>1748275254822</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1748275254822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Började klientdelen av nätverkslabben" />
+    <option name="LAST_COMMIT_MESSAGE" value="Började klientdelen av nätverkslabben" />
   </component>
 </project>

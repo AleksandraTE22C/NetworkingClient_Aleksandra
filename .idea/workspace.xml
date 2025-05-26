@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a105de-b9f3-4082-b57b-36ea7685e329" name="Changes" comment="Började klientdelen av nätverkslabben">
-      <change beforePath="$PROJECT_DIR$/src/NetworkingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkingClient.java" afterDir="false" />
+    <list default="true" id="c2a105de-b9f3-4082-b57b-36ea7685e329" name="Changes" comment="Klar med koden">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NetworkingClient.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748266858712</updated>
-      <workItem from="1748266859743" duration="2247000" />
+      <workItem from="1748266859743" duration="3538000" />
     </task>
     <task id="LOCAL−00001" summary="Började klientdelen av nätverkslabben">
       <option name="closed" value="true" />
@@ -74,7 +75,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1748275254822</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Klar med koden">
+      <option name="closed" value="true" />
+      <created>1748275708982</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1748275708982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Började klientdelen av nätverkslabben" />
-    <option name="LAST_COMMIT_MESSAGE" value="Började klientdelen av nätverkslabben" />
+    <MESSAGE value="Klar med koden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klar med koden" />
   </component>
 </project>
